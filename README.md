@@ -29,4 +29,4 @@ campuspulse-admin-moderator/
 │   └── static/css/         # Admin dashboard theme & control panel layouts
 ├── Dockerfile
 ├── pom.xml
-└── README.md  
+└── README.md
